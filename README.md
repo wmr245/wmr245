@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm wu zeyu 👋
 
-<!--
-**wmr245/wmr245** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Current focus
+- Java backend (Spring Boot, MySQL, Redis)
+- AI/RAG engineering (vector search, evaluation, cost/latency)
 
-Here are some ideas to get you started:
+## Learning log (TIL)
+- 2026-03-01: Setup Java env + first Spring Boot endpoint
+- 2026-03-02: ...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects (building)
+- RAG Knowledge Base (Java + Python) — WIP
+- Short URL service (Java) — WIP
+
+## Links
+- Website: https://wmr245.github.io
+- Blog/Notes: not yet
