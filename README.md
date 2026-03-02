@@ -1,17 +1,17 @@
-# Hi, I'm wu zeyu 👋
+# Hi, I'm wmr245 👋
 
-## Current focus
-- Java backend (Spring Boot, MySQL, Redis)
-- AI/RAG engineering (vector search, evaluation, cost/latency)
+## Focus (2026 Spring)
+- Java Backend: Spring Boot / MySQL / Redis / MQ
+- AI Engineering: RAG / Vector Search / Evaluation / Cost & Latency
 
-## Learning log (TIL)
-- 2026-03-01: Setup Java env + first Spring Boot endpoint
-- 2026-03-02: ...
+## Learning Log (TIL)
+- 2026-03-01: Initialize GitHub profile + Pages + learning log
+- 2026-03-02: Java env (JDK 17) + Maven project + first commits
 
-## Projects (building)
+## Projects (Building)
 - RAG Knowledge Base (Java + Python) — WIP
-- Short URL service (Java) — WIP
+- Short URL Service (Java) — WIP
 
 ## Links
 - Website: https://wmr245.github.io
-- Blog/Notes: not yet
+- Learning log: https://github.com/wmr245/learning-log
